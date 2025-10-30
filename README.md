@@ -1,5 +1,5 @@
-<h1 align="center">⚙️ Enthony Affonso — Underlinezy</h1>
-<h3 align="center">Full Stack Developer | Robotic & Automation Enthusiast | Mechanical Mind</h3>
+<h1 align="center">⚙️ Zynxisdead — Sublinhado</h1>
+<h3 align="center">Full Stack Developer | Robotic & Automation Engineer | Mechanical Mind</h3>
 
 ---
 
@@ -50,11 +50,23 @@
 
 ---
 
-### 📊 Estatísticas
+### 🛰️ Servidor Discord
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zynxisdead&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zynxisdead&layout=compact&theme=tokyonight" height="150"/>
+  <a href="https://discord.gg/udUXmKES" target="_blank">
+    <img src="https://img.shields.io/discord/ID_DO_SERVIDOR?label=Comunidade%20NoryaCorp&logo=discord&logoColor=white&color=5865F2&style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Servidor oficial — atualiza em tempo real (membros, status e boosts)</i>
+</p>
+
+<!-- Banner opcional -->
+<p align="center">
+  <a href="hhttps://discord.gg/udUXmKES">
+    <img src="https://invidget.switchblade.xyz/ID_DO_SERVIDOR" alt="Discord Server Banner"/>
+  </a>
 </p>
 
 ---
@@ -68,7 +80,7 @@
   <a href="https://tiktok.com/@papocuriosoofc" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/underlinezy?igsh=NjBiNWtmcXozZHFh" target="_blank">
+  <a href="https://instagram.com/seu_insta_aqui" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
