@@ -51,36 +51,28 @@
 ---
 
 <!-- 🛰️ Servidor Discord -->
-<section id="discord" style="text-align:center; font-family:Arial, sans-serif; margin: 40px 0;">
-  <h2 style="font-size: 1.8em; color: #5865F2; margin-bottom: 10px;">🛰️ Servidor Discord</h2>
+<section align="center" style="font-family: Arial, sans-serif; margin: 40px 0;">
+  <h2 style="color: #5865F2;">🛰️ Servidor Discord</h2>
 
-  <!-- Badge dinâmica -->
-  <p align="center">
+  <p>
     <a href="https://discord.gg/kHW78EXkeD" target="_blank">
       <img 
-        src="https://img.shields.io/discord/1421924634798063779?label=Comunidade%20NoryaCorp&logo=discord&logoColor=white&color=5865F2&style=for-the-badge" 
-        alt="Discord da NoryaCorp"/>
+        src="https://cdn.discordapp.com/attachments/1079449935618596895/1322004413480396820/discord_banner_neon.png" 
+        alt="Servidor NoryaCorp" 
+        style="max-width: 600px; width: 100%; border-radius: 10px; box-shadow: 0 0 15px rgba(88,101,242,0.4);">
     </a>
   </p>
 
-  <!-- Texto de status -->
-  <p align="center" style="color: #ccc; font-size: 1.1em;">
-    Servidor oficial — atualiza em tempo real (membros, status e boosts)
-  </p>
+  <p style="color: #ccc;">Servidor oficial — entre e participe da comunidade NoryaCorp</p>
 
-  <!-- Banner com estatísticas e botão de convite -->
-  <p align="center">
-    <a href="https://discord.gg/kHW78EXkeD" target="_blank">
-      <img 
-        src="https://invidget.switchblade.xyz/1421924634798063779" 
-        alt="Banner do servidor Discord" 
-        style="max-width: 600px; width: 100%; border-radius: 12px; box-shadow: 0 0 15px rgba(88,101,242,0.4);"/>
-    </a>
-  </p>
+  <a href="https://discord.gg/kHW78EXkeD" target="_blank" 
+     style="display:inline-block; background:#5865F2; color:#fff; padding:10px 20px; border-radius:8px; text-decoration:none; font-weight:bold; transition:0.3s;">
+     Entrar no Discord
+  </a>
 </section>
 
-
 ---
+
 
 ### 🌍 Contatos & Redes
 
