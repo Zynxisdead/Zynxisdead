@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Zynxisdead — Sublinhado</h1>
+<h1 align="center">⚙️ Enthony Affonso — Underlinezy</h1>
 <h3 align="center">Full Stack Developer | Robotic & Automation Enthusiast | Mechanical Mind</h3>
 
 ---
