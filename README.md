@@ -68,7 +68,7 @@
   <a href="https://tiktok.com/@papocuriosoofc" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/seu_insta_aqui" target="_blank">
+  <a href="https://www.instagram.com/underlinezy?igsh=NjBiNWtmcXozZHFh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
