@@ -54,18 +54,17 @@
 
 <p align="center">
   <a href="https://discord.gg/udUXmKES" target="_blank">
-    <img src="https://img.shields.io/discord/ID_DO_SERVIDOR?label=Comunidade%20NoryaCorp&logo=discord&logoColor=white&color=5865F2&style=for-the-badge"/>
+    <img src="https://img.shields.io/discord/1421924634798063779?label=Comunidade%20NoryaCorp&logo=discord&logoColor=white&color=5865F2&style=for-the-badge"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Servidor oficial — atualiza em tempo real (membros, status e boosts)</i>
+  Servidor oficial — atualiza em tempo real (membros, status e boosts)
 </p>
 
-<!-- Banner opcional -->
 <p align="center">
-  <a href="hhttps://discord.gg/udUXmKES">
-    <img src="https://invidget.switchblade.xyz/ID_DO_SERVIDOR" alt="Discord Server Banner"/>
+  <a href="https://discord.gg/udUXmKES">
+    <img src="https://invidget.switchblade.xyz/1421924634798063779" alt="Banner do servidor Discord"/>
   </a>
 </p>
 
