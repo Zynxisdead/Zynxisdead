@@ -47,31 +47,8 @@
 | **NoryaOS** | Sistema operacional experimental feito em Node e Python. |
 | **MindForge** | Ambiente interativo para aprendizado de engenharia aplicada com simulações. |
 | **Project Mecha** | Protótipo de braço robótico com controle neural e sensores físicos. |
-
+ 
 ---
-
-<!-- Bloco simples com ícone "code" hospedado na web -->
-<section style="text-align:center; font-family:Arial, sans-serif; margin:36px 0;">
-  <h2 style="color:#5865F2; margin-bottom:8px;">🛰️ Servidor Discord</h2>
-
-  <!-- Ícone de código (hotlink via CDN) -->
-  <a href="https://discord.gg/kHW78EXkeD" target="_blank" style="display:inline-block; text-decoration:none;">
-    <img
-      src="https://unpkg.com/feather-icons/dist/icons/code.svg"
-      alt="Ícone de código"
-      style="width:120px; height:120px; display:block; margin:0 auto 12px; filter: drop-shadow(0 6px 18px rgba(88,101,242,0.25));">
-  </a>
-
-  <p style="color:#bfc8e6; margin:6px 0 16px;">Servidor NoryaCorp — clique para entrar</p>
-
-  <a href="https://discord.gg/kHW78EXkeD" target="_blank"
-     style="display:inline-block; background:#5865F2; color:#fff; padding:10px 18px; border-radius:8px; text-decoration:none; font-weight:600;">
-    Entrar no Discord
-  </a>
-</section>
-
----
-
 
 ### 🌍 Contatos & Redes
 
