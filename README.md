@@ -50,26 +50,6 @@
 
 ---
 
-### 🛰️ Servidor Discord
-
-<p align="center">
-  <a href="https://discord.gg/udUXmKES" target="_blank">
-    <img src="https://img.shields.io/discord/1421924634798063779?label=Comunidade%20NoryaCorp&logo=discord&logoColor=white&color=5865F2&style=for-the-badge"/>
-  </a>
-</p>
-
-<p align="center">
-  Servidor oficial — atualiza em tempo real (membros, status e boosts)
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/udUXmKES">
-    <img src="https://invidget.switchblade.xyz/1421924634798063779" alt="Banner do servidor Discord"/>
-  </a>
-</p>
-
----
-
 ### 🌍 Contatos & Redes
 
 <p align="center">
