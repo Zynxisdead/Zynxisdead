@@ -42,7 +42,7 @@
 
 | 🚀 Projeto | 💡 Descrição |
 |-------------|--------------|
-| **NeuraCore** | Sistema modular de automação com integração robótica e IoT. |
+| **Underlinemind** | Abra e veja. |
 | **Zynxis AI** | Framework experimental de IA para controle e simulação mecânica. |
 | **NoryaOS** | Sistema operacional experimental feito em Node e Python. |
 | **MindForge** | Ambiente interativo para aprendizado de engenharia aplicada com simulações. |
