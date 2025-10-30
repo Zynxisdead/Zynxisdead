@@ -50,23 +50,35 @@
 
 ---
 
-### 🛰️ Servidor Discord
+<!-- 🛰️ Servidor Discord -->
+<section id="discord" style="text-align:center; font-family:Arial, sans-serif; margin: 40px 0;">
+  <h2 style="font-size: 1.8em; color: #5865F2; margin-bottom: 10px;">🛰️ Servidor Discord</h2>
 
-<p align="center">
-  <a href="https://discord.gg/udUXmKES" target="_blank">
-    <img src="https://img.shields.io/discord/1421924634798063779?label=Comunidade%20NoryaCorp&logo=discord&logoColor=white&color=5865F2&style=for-the-badge"/>
-  </a>
-</p>
+  <!-- Badge dinâmica -->
+  <p align="center">
+    <a href="https://discord.gg/kHW78EXkeD" target="_blank">
+      <img 
+        src="https://img.shields.io/discord/1421924634798063779?label=Comunidade%20NoryaCorp&logo=discord&logoColor=white&color=5865F2&style=for-the-badge" 
+        alt="Discord da NoryaCorp"/>
+    </a>
+  </p>
 
-<p align="center">
-  Servidor oficial — atualiza em tempo real (membros, status e boosts)
-</p>
+  <!-- Texto de status -->
+  <p align="center" style="color: #ccc; font-size: 1.1em;">
+    Servidor oficial — atualiza em tempo real (membros, status e boosts)
+  </p>
 
-<p align="center">
-  <a href="https://discord.gg/udUXmKES">
-    <img src="1421924634798063779" alt="Banner do servidor Discord"/>
-  </a>
-</p>
+  <!-- Banner com estatísticas e botão de convite -->
+  <p align="center">
+    <a href="https://discord.gg/kHW78EXkeD" target="_blank">
+      <img 
+        src="https://invidget.switchblade.xyz/1421924634798063779" 
+        alt="Banner do servidor Discord" 
+        style="max-width: 600px; width: 100%; border-radius: 12px; box-shadow: 0 0 15px rgba(88,101,242,0.4);"/>
+    </a>
+  </p>
+</section>
+
 
 ---
 
